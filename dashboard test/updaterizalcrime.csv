@@ -1,0 +1,18 @@
+STATION,PROVINCE,CITY,BARANGAY,INCIDENT TYPE,LATITUDE,LONGITUDE
+Lucena City Police Station,QUEZON,LUCENA CITY,Barangay 1,(Incident) Robbery,13.941235,121.618291
+Lucena City Police Station,QUEZON,LUCENA CITY,Barangay 2,(Incident) Theft,13.939215,121.619087
+Lucena City Police Station,QUEZON,LUCENA CITY,Barangay 3,(Incident) Vandalism,13.941580,121.617930
+Lucena City Police Station,QUEZON,LUCENA CITY,Barangay 4,(Incident) Assault,13.940645,121.616104
+Lucena City Police Station,QUEZON,LUCENA CITY,Barangay 5,(Incident) Traffic Accident,13.938492,121.620365
+Lucena City Police Station,QUEZON,LUCENA CITY,Barangay 6,(Incident) Stray Bullet,13.939982,121.619276
+Lucena City Police Station,QUEZON,LUCENA CITY,Barangay 7,(Incident) Trespassing,13.940398,121.617458
+Lucena City Police Station,QUEZON,LUCENA CITY,Barangay 8,(Incident) Domestic Violence,13.940831,121.616931
+Lucena City Police Station,QUEZON,LUCENA CITY,Barangay 9,(Incident) Drug Possession,13.939554,121.617682
+Lucena City Police Station,QUEZON,LUCENA CITY,Barangay 10,(Incident) Robbery,13.941412,121.618695
+Taytay MPS,RIZAL,TAYTAY,San Juan,(Incident) Robbery,14.546119,121.128235
+Antipolo City PS,RIZAL,CITY OF ANTIPOLO,Mambugan,(Incident) Stray Bullet,14.617593,121.133324
+Taytay MPS,RIZAL,TAYTAY,San Juan,(Incident) Trespassing,14.546145,121.128365
+Rodriguez MPS,RIZAL,RODRIGUEZ (MONTALBAN),Burgos,(Incident) Vehicular Accident,14.721819,121.140617
+Antipolo City PS,RIZAL,CITY OF ANTIPOLO,San Jose (Pob.),(Incident) Significant Incident,14.622742,121.232628
+Antipolo City PS,RIZAL,CITY OF ANTIPOLO,San Jose (Pob.),(Incident) Significant Incident,14.622742,121.232628
+Cainta MPS,RIZAL,CAINTA,San Roque,(Incident) Strangulation,14.583649,121.115349
